@@ -1,0 +1,29 @@
+2024-08-16 06:34:35 INFO  TC_003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2024-08-16 06:34:38 INFO  TC_003_LoginDDT:76 - **** Finished TC_003_LoginDDT *****
+2024-08-16 06:34:38 INFO  TC_003_LoginDDT:26 - **** Starting TC_003_LoginDDT *****
+2024-08-16 06:38:24 INFO  TC_001_AccountRegistrationTest:21 - ***** Started TC001_AccountRegistrationTest *****
+2024-08-16 06:38:25 INFO  TC_001_AccountRegistrationTest:26 - Clicked on MyAccount Link.. 
+2024-08-16 06:38:25 INFO  TC_001_AccountRegistrationTest:29 - Clicked on Register Link.. 
+2024-08-16 06:38:25 INFO  TC_001_AccountRegistrationTest:33 - Providing customer details...
+2024-08-16 06:38:27 INFO  TC_001_AccountRegistrationTest:45 - Validating expected message..
+2024-08-16 06:38:27 ERROR TC_001_AccountRegistrationTest:51 - Test failed...
+2024-08-16 06:38:27 INFO  TC_001_AccountRegistrationTest:57 - Test passed
+2024-08-16 06:38:27 INFO  TC_001_AccountRegistrationTest:62 - ***** Finished TC001_AccountRegistrationTest *****
+2024-08-16 06:38:30 INFO  TC_002_LoginTest:16 - ***** Started TC_002_LoginTest *****
+2024-08-16 06:38:30 INFO  TC_002_LoginTest:22 - Clicked on MyAccount Link.. 
+2024-08-16 06:38:30 INFO  TC_002_LoginTest:24 - Clicked on login Link.. 
+2024-08-16 06:38:32 INFO  TC_002_LoginTest:38 - Test passed
+2024-08-16 06:38:32 INFO  TC_002_LoginTest:46 - ***** Finished TC001_AccountRegistrationTest *****
+2024-08-16 06:57:26 INFO  TC_001_AccountRegistrationTest:21 - ***** Started TC001_AccountRegistrationTest *****
+2024-08-16 06:57:27 INFO  TC_001_AccountRegistrationTest:26 - Clicked on MyAccount Link.. 
+2024-08-16 06:57:29 INFO  TC_001_AccountRegistrationTest:29 - Clicked on Register Link.. 
+2024-08-16 06:57:29 INFO  TC_001_AccountRegistrationTest:33 - Providing customer details...
+2024-08-16 06:57:32 INFO  TC_001_AccountRegistrationTest:45 - Validating expected message..
+2024-08-16 06:57:32 ERROR TC_001_AccountRegistrationTest:51 - Test failed...
+2024-08-16 06:57:32 INFO  TC_001_AccountRegistrationTest:57 - Test passed
+2024-08-16 06:57:32 INFO  TC_001_AccountRegistrationTest:62 - ***** Finished TC001_AccountRegistrationTest *****
+2024-08-16 06:57:37 INFO  TC_002_LoginTest:16 - ***** Started TC_002_LoginTest *****
+2024-08-16 06:57:38 INFO  TC_002_LoginTest:22 - Clicked on MyAccount Link.. 
+2024-08-16 06:57:38 INFO  TC_002_LoginTest:24 - Clicked on login Link.. 
+2024-08-16 06:57:40 INFO  TC_002_LoginTest:38 - Test passed
+2024-08-16 06:57:40 INFO  TC_002_LoginTest:46 - ***** Finished TC001_AccountRegistrationTest *****
